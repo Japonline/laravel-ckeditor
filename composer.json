@@ -1,5 +1,5 @@
 {
-	"name": "unisharp/laravel-ckeditor",
+	"name": "japonline/laravel-ckeditor",
 	"description": "JavaScript WYSIWYG web text editor (for laravel).",
 	"type": "library",
 	"keywords": [ "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript", "laravel"],
@@ -13,6 +13,10 @@
 		{
 			"name":  "UniSharp Ltd. (Composer Package Maintainer)",
 			"homepage": "http://www.unisharp.com"
+		},
+		{
+			"name":  "Japonline Inc. (Forked from UniSharp)",
+			"homepage": "https://www.japon-line.co.jp"
 		}
 	],
 	"support": {
