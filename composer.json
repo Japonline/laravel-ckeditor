@@ -27,7 +27,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Unisharp\\Ckeditor\\": "./"
+			"Japonline\\Ckeditor\\": "./"
 		}
 	},
 	"require": {
@@ -37,7 +37,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-				"Unisharp\\Ckeditor\\ServiceProvider"
+				"Japonline\\Ckeditor\\ServiceProvider"
 			]
 		}
 	}
