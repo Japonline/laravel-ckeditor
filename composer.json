@@ -1,6 +1,6 @@
 {
 	"name": "japonline/laravel-ckeditor",
-	"description": "JavaScript WYSIWYG web text editor (for laravel).",
+	"description": "JavaScript WYSIWYG web text editor (for laravel). by Japonline",
 	"type": "library",
 	"keywords": [ "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript", "laravel"],
 	"homepage": "http://ckeditor.com",
